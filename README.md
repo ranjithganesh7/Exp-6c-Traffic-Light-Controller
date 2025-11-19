@@ -1,4 +1,4 @@
-# Exp-6b-Traffic-Light-Controller
+# Exp-6c-Traffic-Light-Controller
 # Aim
 To design and simulate a Verilog HDL for Traffic Light Controler
 
