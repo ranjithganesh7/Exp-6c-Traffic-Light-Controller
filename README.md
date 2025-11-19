@@ -104,17 +104,12 @@ module tb_traffic_light;
     initial begin
         $monitor("Time=%0t | Lights={Red,Yellow,Green}=%b", $time, light);
     end
-
-    
-    end
 endmodule
 
 ```
 
 # Output
-
-<img width="1920" height="1080" alt="Screenshot 2025-10-22 104803" src="https://github.com/user-attachments/assets/dc745e7a-5f42-43f6-8de9-e304874bee76" />
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/75db8b29-defc-4e45-8152-13ab117cd976" />
 
 # Result
 
